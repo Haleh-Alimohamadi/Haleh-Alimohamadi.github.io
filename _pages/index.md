@@ -14,7 +14,7 @@ Bio: I received my Ph.D. from the Department of Computer Science and Engineering
 
 
 **News:**
-<div class="text-purple">
+<span style="color:red;",text</span>
   This text is purple, <a href="#" class="text-inherit">including the link</a>
 </div>
 
