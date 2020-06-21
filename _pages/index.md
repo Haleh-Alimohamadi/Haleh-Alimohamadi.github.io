@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "All About Chris"
+title: ""
 excerpt: "Homepage"
 author_profile: true
 permalink: /
-twitter: true
+<!--twitter: true -->
 ---
 I am an Assistant Professor in the Department of Computer Science at UC Irvine. I am also a director of Bio-Inspired Architecture and Systems (BIASLab). My group is working to accelerate big data applications by redesigning the algorithms using strategies that more closely model the ultimate efficient learning machine: "the human brain". Specifically, we are working on wide range of practical problems in the area of brain-inspired computing, machine learning, computer architecture, and embedded systems. 
 
