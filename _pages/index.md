@@ -6,12 +6,8 @@ author_profile: true
 permalink: /
 twitter: true
 ---
-
-Chris's research focuses on the development of computational multiscale models to
-investigate emergent system behaviors in biology.
-Using his training in both biochemistry and computer science, he develops and applies new algorithms and
-softwares to model and study the complexity of life.
-He is currently studying phenomena such as the regulation of synaptic plasticity and learning in dendritic spines.
+I received my Ph.D. from the Department of Computer Science and Engineering at the University of California, San Diego (UCSD). My research interests are brain-inspired computing, machine learning acceleration, computer architecture, and embedded systems. 
+The outputs of my research have been published in over 100 top conferences/journals and opened a new direction for enabling fast and robust general intelligence. My Ph.D. research was the main initiative to open a recent $5M DARPA program focusing on brain-inspired computing (HyDDENN). As a graduate student, I have received the most prestigious awards from both Computer science department and school of engineering at UC San Diego. In 2019, my research has been recognized with the Bernard and Sophia Gordon Engineering Leadership Award, the Outstanding Researcher Award, and the Powell Fellowship by the Jacob School of Engineering (among over 1.4K graduate students). I have also received the Best Doctorate Research in Computer Science at UC San Diego in 2018, the Best Presentation Award in 2019 PhD Forum at Design Automation Conference (DAC), and several Best Paper Nomination Awards at multiple conferences including DAC 2019, DAC 2020, and DATE 2020. 
 
 <h1>Latest Posts</h1>
 {% assign sorted = site.posts | sort:'date' | reverse %}
