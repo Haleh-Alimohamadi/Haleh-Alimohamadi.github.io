@@ -12,6 +12,13 @@ I am an Assistant Professor in the Department of Computer Science at UC Irvine. 
 <p style='text-align: justify;'> 
 Bio: I received my Ph.D. from the Department of Computer Science and Engineering at the UC San Diego. The outputs of my Ph.D. research have been published in over 100 top conferences/journals and opened a new direction Hyperdimensional computing. I have received the most prestigious awards from both Computer science department and school of engineering at UC San Diego. In 2019, my research has been recognized with the Bernard and Sophia Gordon Engineering Leadership Award, the Outstanding Researcher Award, and the Powell Fellowship by the Jacob School of Engineering (among over 1.4K graduate students). I have also received the Best Doctorate Research in Computer Science at UC San Diego in 2018, the Best Presentation Award in 2019 PhD Forum at DAC, and several Best Paper Nomination Awards at multiple conferences including DAC 2019, DAC 2020, and DATE 2020. </p>
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 **News:**
 <div class="text-purple">
