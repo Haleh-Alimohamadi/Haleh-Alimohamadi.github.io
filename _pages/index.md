@@ -14,9 +14,8 @@ Bio: I received my Ph.D. from the Department of Computer Science and Engineering
 
 
 **News:**
-<span style="color:red;",text</span>
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+<span style="color:red;"> text </span>
+ 
 
 Two paper accepted in ISLPED 2020.   
 - Best paper nomination in DATE 2020 and DAC 2020.  
