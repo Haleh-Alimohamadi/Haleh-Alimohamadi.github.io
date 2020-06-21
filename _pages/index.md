@@ -14,9 +14,14 @@ Bio: I received my Ph.D. from the Department of Computer Science and Engineering
 
 
 **News:**
-- Two paper accepted in ISLPED 2020.   
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
+Two paper accepted in ISLPED 2020.   
 - Best paper nomination in DATE 2020 and DAC 2020.  
-- Two papers accepted in DAC 2020.  
+- Two papers accepted in DAC 2020. 
+
 
 <!-- <h1>Latest Posts</h1> 
 {% assign sorted = site.posts | sort:'date' | reverse %}
