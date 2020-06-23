@@ -7,19 +7,24 @@ permalink: /
 <!--twitter: false -->
 ---
 <p style='text-align: justify;'> 
-I am an Assistant Professor in the Department of Computer Science at UC Irvine. I am also a director of Bio-Inspired Architecture and Systems (BIASLab). My group is working to accelerate big data applications by redesigning the algorithms using strategies that more closely model the ultimate efficient learning machine: "the human brain". Specifically, we are working on wide range of practical problems in the area of brain-inspired computing, machine learning, computer architecture, and embedded systems. </p>
-
-<p style='text-align: justify;'> 
-Bio: I received my Ph.D. from the Department of Computer Science and Engineering at the UC San Diego. The outputs of my Ph.D. research have been published in over 100 top conferences/journals and opened a new direction Hyperdimensional computing. I have received the most prestigious awards from both Computer science department and school of engineering at UC San Diego. In 2019, my research has been recognized with the Bernard and Sophia Gordon Engineering Leadership Award, the Outstanding Researcher Award, and the Powell Fellowship by the Jacob School of Engineering (among over 1.4K graduate students). I have also received the Best Doctorate Research in Computer Science at UC San Diego in 2018, the Best Presentation Award in 2019 PhD Forum at DAC, and several Best Paper Nomination Awards at multiple conferences including DAC 2019, DAC 2020, and DATE 2020. </p>
-
+I am a PhD candidate in the Department of Mechanical and Aerospace Engineering ((MAE)(http://maeweb.ucsd.edu/)) at the University of California, San Diego ((UCSD)[https://ucsd.edu/]). I received my M.S. and B.Sc degrees from the Mechanical Engineering Department (ME) at the University of Tehran, Tehran in 2014 and 2012 respectively. I a member of Laboratory for Computational and Cellular Mechanobiology under supervision of professor Padmini Rangamani. My research focuses on the application of theory of mechanics in cellular phenomena broadly from membrane -cytoskeleton interaction, membrane-protein crowding and bulk fluid to cell shape regulation, cell division and endocytosis.
+</p>
 
 **News:**
- 
-
-- <span style="color:red;"> New!  </span> Two paper accepted in ISLPED 2020.   
-- Best paper nomination in DATE 2020 and DAC 2020.  
-- Two papers accepted in DAC 2020. 
-
+- <span style="color:red;"> New.  </span> June 2020: MAE Distinguished PhD Student Fellowship!
+- <span style="color:red;"> New.  </span> May 2020: (Red Blood Cell)[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007890&rev=1] paper accepted in Plus Computational Biology.
+-  Feb 2020: Poster presention in Biophysical Society.
+-  Dec 2019: (Nanotube)[https://www.nature.com/articles/s41598-020-59221-x] paper accepted in Nature Scientific Report!
+-  Dec 2019: Poster presention in The American Society for Cell Biology.
+-  Oct 2019: Poster presention in Mechbio Sumposium.
+-  Oct 2018. Our review paper, (Membrane-Protein Intractions)[https://www.mdpi.com/2218-273X/8/4/120], accepted in Biomolecules.
+- Aug 2018. (Traction)[https://www.molbiolcell.org/doi/full/10.1091/mbc.E18-02-0087] accepted in Molecular Biology of the Cell (MBoC)!
+- April 2018. Poster presentation at Research Expo. 
+- March 2018. Qualifying exam passed!
+- Feb 2018. Paper presentation at Biophysical Society, San Francisco.
+- Feb 2018. Poster presentation at Biophysical Society, San Francisco.
+- June 2017. Selected as outstanding graduate students in MAE Department, UCSD [link]
+- April 2017. Poster presentation at Research Expo.
 
 <!-- <h1>Latest Posts</h1> 
 {% assign sorted = site.posts | sort:'date' | reverse %}
