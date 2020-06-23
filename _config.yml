@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohsen Imani, Homepage"
+title                    : "Haleh Alimohamadi, Homepage"
 title_separator          : "-"
 subtitle                 : "Bio-Inspired Architecture & Systems Laboratory" # site tagline that appears below site title in masthead
-name                     : "Mohsen Imani"
+name                     : "Haleh Alimohamadi"
 description              : "Personal webpage"
-url                      : "https://moimani.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://haleh-alimohamadi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "moimani/moimani.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "moimani/haleh-alimohamadi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -107,31 +107,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohsen Imani, Ph.D."
+  name             : "Haleh Alimohamadi, Ph.D. Candidate"
   avatar           : "/assets/images/Skype.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor, Department of Computer Science"
-  location         : "UC Irvine"
-  email            : "m.imani@uci.edu"
+  bio              : "PhD Candidate, Department of Mechanical and Aerospace"
+  location         : "UC San Diego"
+  email            : "halimoha@ucsd.edu"
   links:
     - label: "Google Scholar"
       icon: "ai ai-fw ai-google-scholar ai-lg"
-      url: "https://scholar.google.com/citations?user=9UZz_qcAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=fq93tS8AAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
-      url: "http://github.com/moimani"
+      url: "http://github.com/haleh-alimohamadi"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin fa-lg"
-      url: "https://www.linkedin.com/in/mohsen-imani-3491164b/"
+      url: "https://www.linkedin.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Google Scholar"
       icon: "ai ai-fw ai-google-scholar ai-lg"
-      url: "https://scholar.google.com/citations?user=9UZz_qcAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=fq93tS8AAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
-      url: "http://github.com/moimani"
+      url: "http://github.com/haleh-alimohamadi"
 
 # Reading Files
 include:
