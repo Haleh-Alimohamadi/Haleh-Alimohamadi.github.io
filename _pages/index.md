@@ -7,7 +7,7 @@ permalink: /
 <!--twitter: false -->
 ---
 <p style='text-align: justify;'> 
-I am a PhD candidate in the Department of Mechanical and Aerospace Engineering ((MAE)(http://maeweb.ucsd.edu/)) at the University of California, San Diego ((UCSD)[https://ucsd.edu/]). I received my M.S. and B.Sc degrees from the Mechanical Engineering Department (ME) at the University of Tehran, Tehran in 2014 and 2012 respectively. I a member of Laboratory for Computational and Cellular Mechanobiology under supervision of professor Padmini Rangamani. My research focuses on the application of theory of mechanics in cellular phenomena broadly from membrane -cytoskeleton interaction, membrane-protein crowding and bulk fluid to cell shape regulation, cell division and endocytosis.
+I am a PhD candidate in the Department of Mechanical and Aerospace Engineering ([MAE](http://maeweb.ucsd.edu/)) at the University of California, San Diego ([UCSD](https://ucsd.edu/)). I received my M.S. and B.Sc degrees from the Mechanical Engineering Department (ME) at the University of Tehran, Tehran in 2014 and 2012 respectively. I a member of Laboratory for Computational and Cellular Mechanobiology under supervision of professor Padmini Rangamani. My research focuses on the application of theory of mechanics in cellular phenomena broadly from membrane -cytoskeleton interaction, membrane-protein crowding and bulk fluid to cell shape regulation, cell division and endocytosis.
 </p>
 
 **News:**
