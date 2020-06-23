@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haleh Alimohamadi, Ph.D. Candidate"
+  name             : "Haleh Alimohamadi"
   avatar           : "/assets/images/Haleh2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate, Department of Mechanical and Aerospace"
   location         : "UC San Diego"
