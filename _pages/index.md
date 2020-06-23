@@ -7,18 +7,18 @@ permalink: /
 <!--twitter: false -->
 ---
 <p style='text-align: justify;'> 
-I am a PhD candidate in the Department of Mechanical and Aerospace Engineering ([MAE](http://maeweb.ucsd.edu/)) at the University of California, San Diego ([UCSD](https://ucsd.edu/)). I received my M.S. and B.Sc degrees from the Mechanical Engineering Department (ME) at the University of Tehran, Tehran in 2014 and 2012 respectively. I a member of Laboratory for Computational and Cellular Mechanobiology under supervision of professor Padmini Rangamani. My research focuses on the application of theory of mechanics in cellular phenomena broadly from membrane -cytoskeleton interaction, membrane-protein crowding and bulk fluid to cell shape regulation, cell division and endocytosis.
+I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I received my M.S. and B.Sc degrees from the Mechanical Engineering Department at the University of Tehran, Tehran in 2014 and 2012 respectively. I a member of Laboratory for Computational and Cellular Mechanobiology under supervision of professor Padmini Rangamani. My research focuses on the application of theory of mechanics in cellular phenomena broadly from membrane -cytoskeleton interaction, membrane-protein crowding and bulk fluid to cell shape regulation, cell division and endocytosis.
 </p>
 
 **News:**
 - <span style="color:red;"> New.  </span> June 2020: MAE Distinguished PhD Student Fellowship!
-- <span style="color:red;"> New.  </span> May 2020: (Red Blood Cell)[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007890&rev=1] paper accepted in Plus Computational Biology.
+- <span style="color:red;"> New.  </span> May 2020: [Red Blood Cell](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007890&rev=1) paper accepted in Plus Computational Biology.
 -  Feb 2020: Poster presention in Biophysical Society.
--  Dec 2019: (Nanotube)[https://www.nature.com/articles/s41598-020-59221-x] paper accepted in Nature Scientific Report!
+-  Dec 2019: [Nanotube](https://www.nature.com/articles/s41598-020-59221-x) paper accepted in Nature Scientific Report!
 -  Dec 2019: Poster presention in The American Society for Cell Biology.
 -  Oct 2019: Poster presention in Mechbio Sumposium.
 -  Oct 2018. Our review paper, (Membrane-Protein Intractions)[https://www.mdpi.com/2218-273X/8/4/120], accepted in Biomolecules.
-- Aug 2018. (Traction)[https://www.molbiolcell.org/doi/full/10.1091/mbc.E18-02-0087] accepted in Molecular Biology of the Cell (MBoC)!
+- Aug 2018. [Traction](https://www.molbiolcell.org/doi/full/10.1091/mbc.E18-02-0087) accepted in Molecular Biology of the Cell (MBoC)!
 - April 2018. Poster presentation at Research Expo. 
 - March 2018. Qualifying exam passed!
 - Feb 2018. Paper presentation at Biophysical Society, San Francisco.
