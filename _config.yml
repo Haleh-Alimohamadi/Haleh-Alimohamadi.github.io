@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "Haleh Alimohamadi, Homepage"
 title_separator          : "-"
-subtitle                 : "Bio-Inspired Architecture & Systems Laboratory" # site tagline that appears below site title in masthead
+subtitle                 : "Computational and Cellular Mechanobiology Laboratory" # site tagline that appears below site title in masthead
 name                     : "Haleh Alimohamadi"
 description              : "Personal webpage"
 url                      : "https://haleh-alimohamadi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Haleh Alimohamadi, Ph.D. Candidate"
-  avatar           : "/assets/images/Skype.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Haleh2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate, Department of Mechanical and Aerospace"
   location         : "UC San Diego"
   email            : "halimoha@ucsd.edu"
