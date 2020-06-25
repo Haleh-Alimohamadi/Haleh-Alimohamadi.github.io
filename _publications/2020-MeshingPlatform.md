@@ -1,10 +1,10 @@
 ---
-title: "An Open Source Mesh Generation Platform for Biophysical Modeling Using Realistic Cellular Geometries"
+title: "Non-uniform distribution of myosin-mediated forces governs red blood cell membrane curvature through tension modulation"
 
-authors: '<b>C. T. Lee<sup>$</sup></b>, J. G. Laughlin, J. B. Moody, R. E. Amaro, J. A. McCammon, M. J. Holst, and P. Rangamani<sup>$</sup>'
+authors: '<H>. Alimohamadi</sup></b>, A. S. Smith, R. B. Nowak, V.M. Fowler, and P. Rangamani</sup>'
 
 
-journal: 'Biophysical Journal'
+journal: 'PLoS Computational Biology'
 doi: '10.1016/j.bpj.2019.11.3400'
 citation: '(2020)'
 
