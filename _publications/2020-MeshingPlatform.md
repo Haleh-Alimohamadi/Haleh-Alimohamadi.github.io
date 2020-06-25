@@ -1,7 +1,7 @@
 ---
 title: "Non-uniform distribution of myosin-mediated forces governs red blood cell membrane curvature through tension modulation"
 
-authors: '<H>. Alimohamadi</sup></b>, A. S. Smith, R. B. Nowak, V.M. Fowler, and P. Rangamani</sup>'
+authors: '<b>H. Alimohamadi</b>, A. S. Smith, R. B. Nowak, V.M. Fowler, and P. Rangamani'
 
 
 journal: 'PLoS Computational Biology'
