@@ -14,7 +14,5 @@ arxiv: '1909.04781'
 date: 2020-01-27
 
 collection: publications
-permalink: /publications/2019-MeshingPlatform
----
 
 
