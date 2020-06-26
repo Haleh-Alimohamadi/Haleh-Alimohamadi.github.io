@@ -1,5 +1,5 @@
 ---
-title: "Modeling and comparing pressure and temperaturecontours of synovial fluid in healthy knee and Osteoarthritis Knee join"
+title: "Modeling and comparing pressure and temperature contours of synovial fluid in healthy knee and osteoarthritis knee joint"
 
 authors: 'P. Sarmadi, <b>H. Alimohamadi</b>, and M. Raisee'
 
