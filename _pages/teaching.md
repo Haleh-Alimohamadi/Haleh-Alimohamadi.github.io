@@ -8,17 +8,18 @@ classes: wide
 <b>The Meaning of Life Is to Find Your Gift. The Purpose of Life Is to Give It Away</b> (Pablo Picasso)
 
 <p style='text-align: justify;'> 
+To me teaching is a combination of both art and scienece. Teachers frame ideas, inspire innovations, and 
+  
+  n instinctual art and science, an joy of learning and innovating ideas..
 Many statements discuss the incorporation of philosophies such as embracing growth mindsets while teaching.
 While these ideas are theoretically and conceptually great, the actual implementation and details are paramount.
 I believe that a powerful framework for creating a growth mindset and positive learning environment in STEM is to <b>"teach science like we do science"</b>.
 Using this framework I seek to empower others to become intellectuals (broadly defined, in this case, as those who love to creatively play with ideas) as well as teachers.
 </p>
 
-My office is a not a stifling cubicle of daily torture, but rather a magnificent playground where I get to creatively apply ideas and tools which I have mastered to attempt to solve hard problems faced by science and society.
-This is in stark contrast to elementary school, where I found little motivation in working on book problems with no apparent long-term goal or application for the knowledge I was assigned to learn.
-To teach science as we do science, I give students an unsolved problem -- such as computational predictions of protein-ligand affinity -- and we work together to equip them with the tools necessary to solve the problem.
-I do not necessarily embrace a single teaching modality such as active learning or flipped classroom, because in my experience the students become so motivated that they begin knowledge acquisition and exploration on their own.
-In these cases, my role as a teacher is simplified: I provide some foundation and advice to guide them towards more bountiful research directions.
+<p style='text-align: justify;'> 
+I have been fortunate to experience the joy of teaching as a graduate student.  In spring 2019, I was chosen to be a TA for “Continuum Mechanics Applied to Medicine/Biology (MAE/BENG 209)” which is an interdisciplinary course between the mechanical and bioengineering departments at UC San Diego. At the end of the course, I was honored to be strongly recommended by 100% of students as a TA with comments like: “Haleh’s knowledge in the subject is extensive, she truly never had a problem explaining or helping me understand. I am not sure if I would have passed the class without her. She went out of her way to make sure I comprehended the material not just completing the assignment”.  In winter 2019, I was chosen as the head TA for “Thermodynamics (MAE 11)” at UC San Diego. MAE 11 is a basic undergraduate course and we have more than 200 students. At the end of the course, I was honored to be strongly recommended by 86% of students as a TA.
+</p>
 
 This approach also helps prevent students from forming the demoralizing impression that their teachers are better or smarter than they are.
 When working on unsolved problems, the teacher and student are alike in not knowing the solution.
