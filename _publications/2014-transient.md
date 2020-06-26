@@ -4,9 +4,9 @@ title: "Transient non-Newtonian blood flow under magnetic targetingdrug delivery
 authors: '<b>H. Alimohamadi</b> and M. Imani'
 
 journal: 'InternationalJournal for Computational Methods in Engineering Science & Mechanics'
-doi: '10.1145/3321515'
 citation: '45.3 (August 2019), pp. 1–20.'
 
+date: 2014-10-01
 
 excerpt: 'C++ library with data structure for representing arbitrary dimensioned simplex meshes with user defined data types.'
 
