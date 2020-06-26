@@ -1,7 +1,7 @@
 ---
 title: "Modeling membrane nanotube morphology:the role of heterogeneity in composition and material properties [[pdf]](https://www.nature.com/articles/s41598-020-59221-x)"
 
-authors: ' <b>H. Lee</b>, B. Ovryn, and P. Rangamani'
+authors: ' <b>H. Alimohamadi</b>, B. Ovryn, and P. Rangamani'
 
 journal: 'Nature, Scientific Reports,'
 
