@@ -8,7 +8,7 @@ classes: wide
 <b>The Meaning of Life Is to Find Your Gift. The Purpose of Life Is to Give It Away</b> (Pablo Picasso)
 
 <p style='text-align: justify;'> 
-Teaching is a combination of both art and scienece. Teachers frame ideas, inspire innovations, and
+Teaching is a combination of both art and scienece. Teachers frame ideas, inspire innovations, and flourish imagnigation. I belive the most important part of teaching is to awake tht natural curiosity of young minds to learn and unravel new things. Sucsseful teachers initiate the learning process, rise big questions, and then out of the way to allow students to search and find their own solutions.        
   
   I belive teaching adds to the clarity of thought, whichis not only an essential element to one’s research endeavor, but also an indispensable element for providing occa-sions to closely interact with students and engaging them in searching for creative solutions. That being said, Ibelieve that academic teaching is a challenging endeavor, but it is of paramount importance to shape the futureof the world
   
