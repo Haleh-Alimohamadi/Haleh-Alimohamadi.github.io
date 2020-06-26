@@ -11,5 +11,5 @@ excerpt: ''
 date: 2016-05-08
 
 collection: publications
-permalink: /publications/2016-allostery
+permalink: /publications/2016-Casson
 ---
