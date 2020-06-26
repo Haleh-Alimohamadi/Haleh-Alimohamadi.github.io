@@ -10,8 +10,8 @@ classes: wide
 {% if site.author.googlescholar %}
   You can also find a more updated list on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 {% endif %}
-</p>
-<!--[Sorted by year]({{ base_path }}by-year/){: .btn .btn--inverse .btn--small}-->
+<!--</p>
+[Sorted by year]({{ base_path }}by-year/){: .btn .btn--inverse .btn--small}-->
 
 
 
