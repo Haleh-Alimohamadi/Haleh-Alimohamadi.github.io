@@ -8,15 +8,7 @@ classes: wide
 <b>The Meaning of Life Is to Find Your Gift. The Purpose of Life Is to Give It Away</b> (Pablo Picasso)
 
 <p style='text-align: justify;'> 
-Teaching is a combination of both art and scienece. Teachers frame ideas, inspire innovations, and flourish imagnigation. I belive the most important part of teaching is to awake tht natural curiosity of young minds to learn and unravel new things. Sucsseful teachers initiate the learning process, rise big questions, and then out of the way to allow students to search and find their own solutions.        
-  
-  I belive teaching adds to the clarity of thought, whichis not only an essential element to one’s research endeavor, but also an indispensable element for providing occa-sions to closely interact with students and engaging them in searching for creative solutions. That being said, Ibelieve that academic teaching is a challenging endeavor, but it is of paramount importance to shape the futureof the world
-  
-  n instinctual art and science, an joy of learning and innovating ideas..
-Many statements discuss the incorporation of philosophies such as embracing growth mindsets while teaching.
-While these ideas are theoretically and conceptually great, the actual implementation and details are paramount.
-I believe that a powerful framework for creating a growth mindset and positive learning environment in STEM is to <b>"teach science like we do science"</b>.
-Using this framework I seek to empower others to become intellectuals (broadly defined, in this case, as those who love to creatively play with ideas) as well as teachers.
+Teaching is a combination of both art and scienece. Teachers frame ideas, inspire innovations, flourish imagnigation, and train the leaders of tomorrow who can change the future of the world. In my opinion, the most important part of teaching is to awaken tht natural curiosity of young minds to see, feel, and learn every day. Like a spark of fire, sucsseful teachers initiate the learning process, rise big questions, and then get out of the way to allow students to search and find their own creative solutions. To me teaching adds to the clarity of thought; I learn something and then I understand and retain what I have learned by teaching it to someone else. Organizing my thought, intergrate it with what I already know, and then answering questions through teaching an object are joyful challenges that help me to build a deeper and long-lasting understanding. 
 </p>
 
 <p style='text-align: justify;'> 
