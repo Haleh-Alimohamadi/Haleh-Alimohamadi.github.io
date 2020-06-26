@@ -12,6 +12,6 @@ biorxiv: '392068v1'
 date: 2018-08-01
 
 collection: publications
-permalink: /publications/2018-CCR2-PNAS
+permalink: /publications/2018-traction
 ---
 
