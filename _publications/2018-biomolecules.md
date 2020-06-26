@@ -1,5 +1,5 @@
 ---
-title: "Modeling membrane curvature generation due to membrane-protein interactions [[pdf]](https://www.mdpi.com/2218-273X/8/4/120)"
+title: "Modeling membrane curvature generation due to membrane-protein interactions [[Link]](https://www.mdpi.com/2218-273X/8/4/120)"
 
 authors: '<b>H. Alimohamadi</b> and P. Rangamani'
 
