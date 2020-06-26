@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 classes: wide
 ---
-
+#The meaning of life is to find your gift. The purpose of life is to give it away (Pablo Picasso)
 Many statements discuss the incorporation of philosophies such as embracing growth mindsets while teaching.
 While these ideas are theoretically and conceptually great, the actual implementation and details are paramount.
 I believe that a powerful framework for creating a growth mindset and positive learning environment in STEM is to <b>"teach science like we do science"</b>.
