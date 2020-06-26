@@ -8,7 +8,7 @@ status: 'Annual InternationalConference on Mechanical Engineering, 2013'
 citation: '7 (January 2020). pp. 1-24'
 
 
-date: 2013-01-21
+date: 2013-09-21
 
 collection: publications
 permalink: /publications/2018-osteoarthisis
