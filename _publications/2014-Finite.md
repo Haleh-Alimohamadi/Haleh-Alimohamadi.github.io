@@ -3,7 +3,7 @@ title: "Finite element simulation of two-dimensional pulsatile bloodflow through
 
 authors: '<b>H. Alimohamadi</b> and M. Imani'
 
-journal: 'nternational Journal for Computational Methods in Engineering Science & Mechanics,'
+journal: 'International Journal for Computational Methods in Engineering Science & Mechanics'
 citation: '10.7 (July 2014), pp. 2648–2657.'
 
 date: 2014-06-08
