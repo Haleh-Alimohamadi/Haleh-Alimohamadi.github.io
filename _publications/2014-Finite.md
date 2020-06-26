@@ -10,6 +10,6 @@ date: 2014-06-08
 
 
 collection: publications
-permalink: /publications/2014-MSM
+permalink: /publications/2014-Finite
 ---
 
