@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 classes: wide
 ---
-<h2>The meaning of life is to find your gift. The purpose of life is to give it away</h2> (Pablo Picasso)
+<b>The meaning of life is to find your gift. The purpose of life is to give it away</b> (Pablo Picasso)
 
 <p style='text-align: justify;'> 
 Many statements discuss the incorporation of philosophies such as embracing growth mindsets while teaching.
