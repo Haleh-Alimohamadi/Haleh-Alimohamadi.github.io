@@ -12,7 +12,7 @@ excerpt: ''
 date: 2016-08-25
 
 collection: publications
-permalink: /publications/2016-mileperm
+permalink: /publications/2016-magnetic
 ---
 
 <!-- *Special issue J. Andrew McCammon Feschrift. -->
