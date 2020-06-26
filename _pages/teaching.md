@@ -20,13 +20,18 @@ Using this framework I seek to empower others to become intellectuals (broadly d
 </p>
 
 <p style='text-align: justify;'> 
-I have been fortunate to experience the joy of teaching as a graduate student.  In spring 2019, I was chosen to be a TA for “Continuum Mechanics Applied to Medicine/Biology (MAE/BENG 209)” which is an interdisciplinary course between the mechanical and bioengineering departments at UC San Diego. At the end of the course, I was honored to be strongly recommended by 100% of students as a TA with comments like: <i>“ Haleh’s knowledge in the subject is extensive, she truly never had a problem explaining or helping me understand. I am not sure if I would have passed the class without her. She went out of her way to make sure I comprehended the material not just completing the assignment” </i>.  In winter 2019, I was chosen as the head TA for “Thermodynamics (MAE 11)” at UC San Diego. MAE 11 is a basic undergraduate course and we have more than 200 students. At the end of the course, I was honored to be strongly recommended by 86% of students as a TA.
+I have been fortunate to experience the joy of teaching as a graduate student.  In spring 2019, I was chosen to be a TA for “Continuum Mechanics Applied to Medicine/Biology (MAE/BENG 209)” which is an interdisciplinary course between the mechanical and bioengineering departments at UC San Diego. At the end of the course, I was honored to be strongly <b> recommended by 100% of students </b> as a TA with comments like: <i>“ Haleh’s knowledge in the subject is extensive, she truly never had a problem explaining or helping me understand. I am not sure if I would have passed the class without her. She went out of her way to make sure I comprehended the material not just completing the assignment” </i>.  In winter 2019, I was chosen as the head TA for “Thermodynamics (MAE 11)” at UC San Diego. MAE 11 is a basic undergraduate course and we have more than 200 students. At the end of the course, I was honored to be strongly recommended by 86% of students as a TA.
 </p>
 
 <p style='text-align: justify;'> 
 As a female in engineering, I personally have experienced the important role that advocacy can play in the career trajectories of undergraduate and minority students. I believe it is my turn to support underrepresented students. During my PhD., I have volunteered in multiple programs that aim to increase undergraduate and minority research in engineering. In particular, I was a mentor for the ENLACE program which provides research experiences for Latino students. I have also volunteered to mentor students for the
-[JUMP program](http://jacobsschool.ucsd.edu/idea/programs/jump.shtml) that tries to provide mentorship opportunities for undergraduate and minority students at UC San Diego. I am also an active member of the [MAE Graduate Women’s Group](http://maegw.ucsd.edu/UCSD_MAE_Graduate_Women/Home.html), which not only advocates for students in higher education but also provides math tutoring ([Math Open House] (https://sites.google.com/eng.ucsd.edu/mae-graduate-women/math-open-house?authuser=0)) for undergraduate students. 
+JUMP program that tries to provide mentorship opportunities for undergraduate and minority students at UC San Diego. I am also an active member of the MAE Graduate Women’s Group, which not only advocates for students in higher education but also provides math tutoring Math Open House for undergraduate students. 
 </p>
+
+<b> Links </b>
+- [MAE Graduate Women’s Group](http://maegw.ucsd.edu/UCSD_MAE_Graduate_Women/Home.html)
+- [Math Open House] (https://sites.google.com/eng.ucsd.edu/mae-graduate-women/math-open-house?authuser=0)
+- [JUMP mentorship program](http://jacobsschool.ucsd.edu/idea/programs/jump.shtml)
 
 This approach also helps prevent students from forming the demoralizing impression that their teachers are better or smarter than they are.
 When working on unsolved problems, the teacher and student are alike in not knowing the solution.
