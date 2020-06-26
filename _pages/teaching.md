@@ -8,7 +8,7 @@ classes: wide
 <b>The Meaning of Life Is to Find Your Gift. The Purpose of Life Is to Give It Away</b> (Pablo Picasso)
 
 <p style='text-align: justify;'> 
-Teaching is a combination of both art and scienece. Teachers frame ideas, inspire innovations, flourish imagnigation, and train the leaders of tomorrow who can change the future of the world. In my opinion, the most important part of teaching is to awaken tht natural curiosity of young minds to see, feel, and learn every day. Like a spark of fire, sucsseful teachers initiate the learning process, rise big questions, and then get out of the way to allow students to search and find their own creative solutions. To me teaching adds to the clarity of thought; I learn something and then I understand and retain what I have learned by teaching it to someone else. Organizing my thought, intergrate it with what I already know, and then answering questions through teaching an object are joyful challenges that help me to build a deeper and long-lasting understanding. 
+Teaching is a combination of both art and science. Teachers frame ideas, inspire innovations, flourish imagination, and train the leaders of tomorrow who can change the future of the world. In my opinion, the most important part of teaching is to awaken the natural curiosity of young minds to see, feel, and learn every day. Like a spark of fire, successful teachers initiate the learning process, rise big questions, and then get out of the way to allow students to search and find their own solutions. To me teaching adds to the clarity of thought; I learn something and then I understand and retain what I have learned by teaching it to someone else. Organizing my thought, integrate it with what I already know, and then answering questions through teaching an object are joyful challenges that help me to build a deeper and long-lasting understanding.  
 </p>
 
 <p style='text-align: justify;'> 
@@ -20,8 +20,9 @@ As a female in engineering, I personally have experienced the important role tha
 </p>
 
 <b> Links </b>
-- [MAE Graduate Women’s Group at UC San Diego](https://sites.google.com/eng.ucsd.edu/mae-graduate-women/home?authuser=0)
+- [MAE Graduate Women’s Group](https://sites.google.com/eng.ucsd.edu/mae-graduate-women/home?authuser=0)
 - [Math Open House](https://sites.google.com/eng.ucsd.edu/mae-graduate-women/math-open-house?authuser=0)
-- [JUMP mentorship program](http://jacobsschool.ucsd.edu/idea/programs/jump.shtml)
+- [JUMP Mentorship Program](http://jacobsschool.ucsd.edu/idea/programs/jump.shtml)
+- [ENLACE Summer Program ](https://summer.ucsd.edu/program-finder/enlace.html)
 
 
