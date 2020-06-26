@@ -1,5 +1,5 @@
 ---
-title: "The role of tractionin membrane curvature generation"
+title: "The role of traction in membrane curvature generation"
 
 authors: '<b>H. Alimohamadi</b>, R. Vasan, J. Hassinger, J. C.  Stachowiak, and P. Rangamani'
 
