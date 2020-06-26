@@ -7,8 +7,6 @@ journal: 'Molecular Biology of the Cell'
 
 citation: '116.17 (Apr. 2019), pp. 8131–8136.'
 
-biorxiv: '392068v1'
-
 date: 2018-08-01
 
 collection: publications
