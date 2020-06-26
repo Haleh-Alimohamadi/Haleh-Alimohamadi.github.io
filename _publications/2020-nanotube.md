@@ -3,7 +3,7 @@ title: "Modeling membrane nanotube morphology:the role of heterogeneity in compo
 
 authors: ' <b>H. Alimohamadi</b>, B. Ovryn, and P. Rangamani'
 
-journal: 'Nature, Scientific Reports,'
+journal: 'Nature, Scientific Reports'
 
 citation: '7 (January 2020). pp. 1-24'
 
