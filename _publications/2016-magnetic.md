@@ -1,5 +1,5 @@
 ---
-title: "On the use of magnetic fields for controlling the temperatureof hot spots on porous plaques in stenosis arteries [[Link]](https://www.jstage.jst.go.jp/article/rheology/43/5/43_135/_article/-char/ja/)"
+title: "On the use of magnetic fields for controlling the temperatureof hot spots on porous plaques in stenosis arteries [[Link]](https://www.semanticscholar.org/paper/On-the-Use-of-Magnetic-Fields-for-Controlling-the-Alimohamadi-Sadeghy/5194e29e9d9c8f451ad5a573433b264c2e512e93)"
 
 authors: ' <b>H. Alimohamadi</b> and K. Sadeghy'
 
