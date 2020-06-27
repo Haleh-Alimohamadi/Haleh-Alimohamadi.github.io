@@ -4,7 +4,6 @@ title:
 permalink: /home/
 author_profile: true
 classes: wide
-<!--twitter: false -->
 ---
 <p style='text-align: justify;'> 
 I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Laboratory for Computational and Cellular Mechanobiology under supervision of professor Padmini Rangamani. My research focuses on the application of theory of mechanics in cellular phenomena broadly from membrane -cytoskeleton interaction, membrane-protein crowding and bulk fluid to cell shape regulation, cell division and endocytosis.
