@@ -12,7 +12,7 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 
 **News:**
 - <span style="color:red;"> New.  </span> June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
-- <span style="color:red;"> New.  </span> May 2020: [Red Blood Cell](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007890&rev=1) paper accepted in Plus Computational Biology.
+- <span style="color:red;"> New.  </span> May 2020: [Red Blood Cell](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007890&rev=1) paper accepted in Plos Computational Biology.
 -  Feb 2020: Poster presention in Biophysical Society.
 -  Dec 2019: [Nanotube](https://www.nature.com/articles/s41598-020-59221-x) paper accepted in Nature Scientific Report!
 -  Dec 2019: Poster presention in The American Society for Cell Biology.
@@ -21,11 +21,11 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 -  Jan 2019: Poster presention in CTSBB/BMCC workshop.
 -  Nov 2018. Passed Senate Exam -- Ph.D. candidate! 
 -  Oct 2018. Our review paper, [Membrane-Protein Intractions](https://www.mdpi.com/2218-273X/8/4/120), accepted in Biomolecules.
--  Aug 2018. [Traction](https://www.molbiolcell.org/doi/full/10.1091/mbc.E18-02-0087) accepted in Molecular Biology of the Cell (MBoC)!
+-  Aug 2018. [Traction](https://www.molbiolcell.org/doi/full/10.1091/mbc.E18-02-0087) paper accepted in Molecular Biology of the Cell (MBoC).
 -  April 2018. Poster presentation at Research Expo. 
--  March 2018. Passed qualifying exam.
+-  March 2018. Passed Qualifying Exam.
 -  Feb 2018. Paper presentation at Biophysical Society, San Francisco.
--  June 2017. Selected as **MAE outstanding graduate students**, UCSD.
+-  June 2017. Selected as **MAE Outstanding Graduate Students**, UCSD.
 -  April 2017. Poster presentation at Research Expo.
 -  Sep 2016.  Honored to recieve **Visible Molecular Cell Consortium (VMCC) Fellowship** [link](https://vmcc.ucsd.edu/).
 
