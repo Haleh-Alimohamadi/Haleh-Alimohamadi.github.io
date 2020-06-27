@@ -25,7 +25,7 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 -  April 2018. Poster presentation at Research Expo. 
 -  March 2018. Passed Qualifying Exam.
 -  Feb 2018. Paper presentation at Biophysical Society, San Francisco.
--  June 2017. Selected as **MAE Outstanding Graduate Students**, UCSD.
+-  June 2017. Selected as **MAE Outstanding Graduate Student**, UCSD.
 -  April 2017. Poster presentation at Research Expo.
 -  Sep 2016.  Honored to recieve **Visible Molecular Cell Consortium (VMCC) Fellowship** [[Link]](https://vmcc.ucsd.edu/).
 
