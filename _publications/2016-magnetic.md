@@ -9,7 +9,7 @@ citation: '120.33 (Aug. 2016), pp. 8606–8616.'
 
 excerpt: ''
 
-date: 2016-08-25
+date: 2016-01-25
 
 collection: publications
 permalink: /publications/2016-magnetic
