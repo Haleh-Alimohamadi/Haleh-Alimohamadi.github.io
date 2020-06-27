@@ -1,9 +1,9 @@
 ---
 layout: single
-title: ""
-excerpt: "Homepage"
+title:
+permalink: /Home/
 author_profile: true
-permalink: /
+classes: wide
 <!--twitter: false -->
 ---
 <p style='text-align: justify;'> 
