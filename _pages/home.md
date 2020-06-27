@@ -1,7 +1,7 @@
 ---
 layout: single
 title:
-permalink: /Home/
+permalink: /home/
 author_profile: true
 classes: wide
 <!--twitter: false -->
