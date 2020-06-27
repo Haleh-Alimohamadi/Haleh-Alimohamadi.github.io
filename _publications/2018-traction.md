@@ -1,5 +1,5 @@
 ---
-title: "The role oftraction in membrane curvature generation [[Link]](https://www.molbiolcell.org/doi/full/10.1091/mbc.E18-02-0087)"
+title: "The role of traction in membrane curvature generation [[Link]](https://www.molbiolcell.org/doi/full/10.1091/mbc.E18-02-0087)"
 
 authors: '<b>H. Alimohamadi*</b>, R. Vasan*, J. Hassinger, J.C. Stachowiak, and P. Rangamani'
 
