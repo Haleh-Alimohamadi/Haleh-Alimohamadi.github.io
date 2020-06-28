@@ -11,7 +11,7 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 <p style='text-align: justify;'> 
  My research is at the interface of mathematical modeling and computational tools development to study the physical mechanisms underlying fascinating cellular phenomena. Mainly, I am interested in cell membrane mechanics to understand how molecular mechanisms can generate forces to change the geometries of cells and why cell membranes adopt distinct morphologies in response to different biophysical stimuli. The cell membrane is a self-assembled lipid bilayer that serves as a semipermeable barrier
 and protects the cell's contents from perils in the extracellular. From a mechanical point of view, the cell membrane is a continuous viscoelastic shell that facilitates the change of the cell morphology. In collaboration with experimentalists and biologists, I am trying to develop theoretical frameworks that closely capture the behavior of cell membranes in interactions with different curvature-generating mechanisms such as protein machinery, phase separation, and cytoskeletal forces. The results of our model can provide insight into how the failure of molecular mechanisms to maintain or alter the morphology of cell membranes can result in fatal human diseases including cancer, psychiatric disorders, neurodegeneration, and heart diseases.
-  
+</p>  
 
 **News:**
 - <span style="color:red;"> New.  </span> June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
