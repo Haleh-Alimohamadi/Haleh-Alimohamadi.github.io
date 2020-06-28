@@ -6,8 +6,19 @@ author_profile: true
 classes: wide
 ---
 <p style='text-align: justify;'> 
-I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Laboratory for Computational and Cellular Mechanobiology under supervision of Professor Padmini Rangamani. My research focuses on the application of theory of mechanics in cellular phenomena broadly from membrane -cytoskeleton interaction, membrane-protein crowding and bulk fluid to cell shape regulation, cell division and endocytosis.
+I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Computational and Cellular Mechanobiology Labratory under supervision of Professor Padmini Rangamani. My work is at the interface of mathematical modeling and computational tools development to study the physical mechanisms underlying fascinating cellular phenomena. 
+</p> 
+<p style='text-align: justify;'> 
+My research mainly focuses on the application of theoritical models to undersatnd how molecular mechanisms can generate forces to deform the cell memebarnes and why cell membranes adapt distinct morphologies in response to different biophysical stimula. From a mechanical point of view, plasma membrane is a continuous elastic shell that bends and deforms in response to large external stresses. 
 </p>
+My main inteerst is to undersatnd how molecular mechanisms can generate forces to deform the cell memebarnes and why cell membranes adapt various morphologies in response to different biophysical stimulat. To answer these questions, I 
+
+
+My research mainly focuses on the application of theoritical models to undersatnd how molecular mechanisms can generate forces to deform the cell memebarnes and why cell membranes adapt different morphologies 
+
+cell membranes can adopt its morphology of mechanics in cellular phenomena broadly from membrane -cytoskeleton interaction, membrane-protein crowding and bulk fluid to cell shape regulation, cell division and endocytosis.
+
+  biological phenomena at the cellular level.
 
 **News:**
 - <span style="color:red;"> New.  </span> June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
