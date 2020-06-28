@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 <p style='text-align: justify;'> 
-I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Computational and Cellular Mechanobiology Laboratory under the supervision of Professor Padmini Rangamani. I am an applied mathematician with training in computational biology and biophysics.
+I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Computational and Cellular Mechanobiology Laboratory working under the supervision of Professor Padmini Rangamani. I am an applied mathematician with training in computational biology and biophysics.
 </p> 
 <p style='text-align: justify;'> 
  My research is at the interface of mathematical modeling and computational tools development to study the physical mechanisms underlying fascinating cellular phenomena. Mainly, I am interested in cell membrane mechanics to understand how molecular mechanisms can generate forces to change the geometries of cells and why cell membranes adopt distinct morphologies in response to different biophysical stimuli. The cell membrane is a self-assembled lipid bilayer that serves as a semipermeable barrier
