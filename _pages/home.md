@@ -6,11 +6,15 @@ author_profile: true
 classes: wide
 ---
 <p style='text-align: justify;'> 
-I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Computational and Cellular Mechanobiology Laboratory working under the supervision of Professor Padmini Rangamani. I am an engineer with training in computational biology, biophysics, and fluid mechanics.
+I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Computational and Cellular Mechanobiology Laboratory working under the supervision of Professor Padmini Rangamani. I am an engineer with training in computational biology, biophysics, and biofluid mechanics.
 </p> 
 <p style='text-align: justify;'> 
- My research is at the interface of mathematical modeling and computational tools development to study the physical mechanisms underlying fascinating cellular phenomena. Mainly, I am interested in cell membrane mechanics to understand how molecular mechanisms can generate forces to change the geometries of cells and why cell membranes adopt distinct morphologies in response to different biophysical stimuli. In collaboration with experimentalists and biologists, I am trying to develop theoretical frameworks that closely capture the behavior of cell membranes in interactions with different curvature-generating mechanisms such as protein machinery, phase separation, and cytoskeletal forces. The results of our model can provide insight into how the failure of molecular mechanisms to maintain or alter the morphology of cell membranes can result in fatal human diseases including cancer, psychiatric disorders, neurodegeneration, and heart diseases.
+My research is at the interface of mathematical modeling and computational tools development to study the physical mechanisms underlying fascinating cellular phenomena. Mainly, I am interested in cell membrane mechanics to understand how molecular mechanisms can generate forces to change the geometries of cells and why cell membranes adopt distinct morphologies in response to different biophysical stimuli. In collaboration with experimentalists and biologists, I am trying to develop theoretical frameworks that closely capture the behavior of cell membranes in interactions with different curvature-generating mechanisms. The results of our model can provide insight into how the failure of molecular mechanisms in maintaining or altering the morphology of cell membranes can result in fatal human diseases including cancer, psychiatric disorders, neurodegeneration, and heart diseases. I am also interested in fluid mechanics particularly biofluid. I have developed general codes to study the kinematics and the dynamics of blood flow in porous vessels and under the action of external magnetic fields. Considering the role of surrounding bulk fluid on adjusting the shape of cell membranes, I am passionate to incorporate my knowledge to study the cell membrane behavior in a fluid flow.   
 </p>  
+
+<p style='text-align: justify;'> 
+As a graduate student, I have received the prestigious awards including MAE Distinguished Ph.D. Student Fellowship, Visible Molecular Cell Consortium (VMCC) Fellowship, and MAE Outstanding Graduate Student. I was also recognized as 2019 Rising Stars in Mechanical Engineering by Stanford University. 
+</p>
 
 **News:**
 - <span style="color:red;"> New.  </span> June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
