@@ -10,16 +10,15 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 </p> 
 <p style='text-align: justify;'> 
  My research is at the interface of mathematical modeling and computational tools development to study the physical mechanisms underlying fascinating cellular phenomena. Mainly, I am interested in cell membrane mechanics to understand how molecular mechanisms can generate forces to change the geometries of cells and why cell membranes adapt distinct morphologies in response to different biophysical stimula. Cell membrane is a self-assembled lipid bilayer that serves as a semipermeable barrier
-and protects the cell's contents from perils in the extracellular. From mechanical point of view, cell membrane is a continuous viscoelastic shell that facilitates the change of the cell morphology.
-</p> 
-<p style='text-align: justify;'> 
-  In collaboration with experimentalist and biologist, I am trying to develope theoritical frameworks that closely capture the behaviour of cell membrane in interactions with different curvature-generating mechanisms such as protein machinary, phase separation, and cytoskeletal
+and protects the cell's contents from perils in the extracellular. From mechanical point of view, cell membrane is a continuous viscoelastic shell that facilitates the change of the cell morphology. In collaboration with experimentalist and biologist, I am trying to develope theoritical frameworks that closely capture the behaviour of cell membrane in interactions with different curvature-generating mechanisms such as protein machinary, phase separation, and cytoskeletal forces. The results of our model can provide insight into the role of different molecular machinary in prescribing and maintaining the morphology of different cell types.
+</p>   
+  be useful to predict how 
 forces
   
   bends and deforms in
 response to large external stresses
   
-  Cell shape maintenance and the ability of the cell to alter its shape are fundemental for regulation of various biological function. Any defects in the ability of the cell to adjust its morphology can result in fatal human disease such ascancer, psychiatric disorders, neurodegeneration, and heart diseases. In collaboration with experimentalist and biologist, I am trying to develope theoritical frameworks that closely capture the 
+  Cell shape maintenance and the ability of the cell to alter its shape are fundemental for regulation of various biological function. Any defects in the ability of the cell to adjust its morphology can result in fatal human disease such as cancer, psychiatric disorders, neurodegeneration, and heart diseases. In collaboration with experimentalist and biologist, I am trying to develope theoritical frameworks that closely capture the 
   
   Any  and any failure in that can result in fatal human disease such ascancer, psychiatric disorders, neurodegeneration, and heart diseases. 
   
