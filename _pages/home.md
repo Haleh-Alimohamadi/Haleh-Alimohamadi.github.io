@@ -6,11 +6,10 @@ author_profile: true
 classes: wide
 ---
 <p style='text-align: justify;'> 
-I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Computational and Cellular Mechanobiology Laboratory working under the supervision of Professor Padmini Rangamani. I am an applied mathematician with training in computational biology and biophysics.
+I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Computational and Cellular Mechanobiology Laboratory working under the supervision of Professor Padmini Rangamani. I am an engineer with training in computational biology, biophysics, and fluid mechanics.
 </p> 
 <p style='text-align: justify;'> 
- My research is at the interface of mathematical modeling and computational tools development to study the physical mechanisms underlying fascinating cellular phenomena. Mainly, I am interested in cell membrane mechanics to understand how molecular mechanisms can generate forces to change the geometries of cells and why cell membranes adopt distinct morphologies in response to different biophysical stimuli. The cell membrane is a self-assembled lipid bilayer that serves as a semipermeable barrier
-and protects the cell's contents from perils in the extracellular. From a mechanical point of view, the cell membrane is a continuous viscoelastic shell that facilitates the change of the cell morphology. In collaboration with experimentalists and biologists, I am trying to develop theoretical frameworks that closely capture the behavior of cell membranes in interactions with different curvature-generating mechanisms such as protein machinery, phase separation, and cytoskeletal forces. The results of our model can provide insight into how the failure of molecular mechanisms to maintain or alter the morphology of cell membranes can result in fatal human diseases including cancer, psychiatric disorders, neurodegeneration, and heart diseases.
+ My research is at the interface of mathematical modeling and computational tools development to study the physical mechanisms underlying fascinating cellular phenomena. Mainly, I am interested in cell membrane mechanics to understand how molecular mechanisms can generate forces to change the geometries of cells and why cell membranes adopt distinct morphologies in response to different biophysical stimuli. In collaboration with experimentalists and biologists, I am trying to develop theoretical frameworks that closely capture the behavior of cell membranes in interactions with different curvature-generating mechanisms such as protein machinery, phase separation, and cytoskeletal forces. The results of our model can provide insight into how the failure of molecular mechanisms to maintain or alter the morphology of cell membranes can result in fatal human diseases including cancer, psychiatric disorders, neurodegeneration, and heart diseases.
 </p>  
 
 **News:**
@@ -32,6 +31,8 @@ and protects the cell's contents from perils in the extracellular. From a mechan
 -  April 2017. Poster presentation at Research Expo.
 -  Sep 2016.  Honored to recieve **Visible Molecular Cell Consortium (VMCC) Fellowship** [[Link]](https://vmcc.ucsd.edu/).
 
+<!---The cell membrane is a self-assembled lipid bilayer that serves as a semipermeable barrier
+and protects the cell's contents from perils in the extracellular. From a mechanical point of view, the cell membrane is a continuous viscoelastic shell that facilitates the change of the cell morphology--->
 
 <!--- the role of different molecular machinary in prescribing and maintaining the morphology of different cell types. 
 Cell shape maintenance and the ability of the cell to alter its shape are fundemental for regulation of various biological function. Any defects in the ability of the cell to adjust its morphology can result in fatal human disease such as cancer, psychiatric disorders, neurodegeneration, and heart diseases. In collaboration with experimentalist and biologist, I am trying to develope theoritical frameworks that closely capture the 
