@@ -51,28 +51,4 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 
 
 
- <style>
-    div.container {
-      display:inline-block;
-    }
 
-    p {
-      text-align:center;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <img src="/assets/images/blood2.jpg" height="200" width="200" />
-    <p>This is image 1</p>
-  </div>
-  <div class="container">
-    <img class="middle-img" src="/assets/images/membrane2.jpg"/ height="200" width="200" />
-    <p>This is image 2</p>
-  </div>
-  <div class="container">
-    <img src="/assets/images/blood2.jpg" height="200" width="200" />
-    <p>This is image 3</p>
-  </div>
-</div>
-</body>
