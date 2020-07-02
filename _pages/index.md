@@ -7,8 +7,30 @@ permalink: /
 <!--twitter: false -->
 ---
 <p style='text-align: justify;'> 
-I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of Laboratory for Computational and Cellular Mechanobiology under supervision of professor Padmini Rangamani. My research focuses on the application of theory of mechanics in cellular phenomena broadly from membrane -cytoskeleton interaction, membrane-protein crowding and bulk fluid to cell shape regulation, cell division and endocytosis.
+I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (MAE) at the University of California, San Diego (UCSD). I a member of 
+  Computational and Cellular Mechanobiology Laboratory
+  working under the supervision of Professor Padmini Rangamani. I am an engineer with training in computational biology, biophysics, and fluid mechanics.
 </p>
+
+<p style='text-align: justify;'> 
+  My research is at the interface of mathematical modeling and computational tools development to study the physical mechanisms underlying fascinating cellular phenomena. 
+  Mainly, I am interested in cell membrane mechanics to understand how molecular mechanisms can generate forces to change the shape of cells. 
+  In collaboration with experimentalists and biologists, I am trying to develop theoretical frameworks that closely capture the behavior of cell membranes 
+  in interactions with different curvature-generating mechanisms. The results of our model can provide insight into how the failure of molecular mechanisms 
+  in maintaining or altering the morphology of cell membranes can result in fatal human diseases including cancer, psychiatric disorders, neurodegeneration, and 
+  heart diseases. I am also interested in fluid mechanics particularly biofluid. In my master's studies, I have developed general codes to study the kinematics 
+  and the dynamics of blood flow in porous vessels and under the action of external magnetic fields. Considering the role of surrounding bulk fluid on adjusting 
+  the shape of cell membranes, I am passionate to incorporate my knowledge to study the cell membrane behavior in a fluid flow.
+</p>
+
+<p style='text-align: justify;'> 
+  As a graduate student, I have received prestigious awards including MAE Distinguished Ph.D. Student Fellowship, Visible Molecular Cell Consortium (VMCC) Fellowship,
+  and MAE Outstanding Graduate Student Award. I was also honored to be recognized as 2019 Rising Stars in Mechanical Engineering by Stanford University. 
+  During my PhD., I have volunteered in multiple programs that aim to increase undergraduate and minority research in engineering. In particular, 
+  I have participated in ENLACE and JUMP programs as a mentor. I am also a member of the MAE Graduate Women’s Group and tutoring in Math Open House.
+</p>
+
+
 
 **News:**
 - <span style="color:red;"> New.  </span> June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
