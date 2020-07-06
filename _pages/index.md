@@ -58,7 +58,7 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
            <p style="color:black;font-size:17px;">Membrane Mechanics</p>
   </div>
  <div class="container">
-   <a href="https://haleh-alimohamadi.github.io/research/"><img src="/assets/images/membrane.png" height="450" width="250" /> </a>
+   <a href="https://haleh-alimohamadi.github.io/research/"><img src="/assets/images/blood.png" height="450" width="250" /> </a>
            <p style="color:black;font-size:17px;">Blod Flow</p>
   </div>
 </div>
