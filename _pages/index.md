@@ -70,7 +70,7 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 - <span style="color:red;"> New.  </span> June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
 - <span style="color:red;"> New.  </span> May 2020: [Red Blood Cell](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007890&rev=1) paper accepted in Plos Computational Biology.
 -  Feb 2020: Poster presention in Biophysical Society.
--  Dec 2019: [Nanotube](https://www.nature.com/articles/s41598-020-59221-x) paper accepted in Nature Scientific Report!
+-  Dec 2019: [Nanotube](https://www.nature.com/articles/s41598-020-59221-x) paper accepted in Nature Scientific Reports!
 -  Dec 2019: Poster presention in The American Society for Cell Biology.
 -  Oct 2019: Poster presention in Mechbio Sumposium.
 -  Oct 2019: **Selected as a Risng Stars**, Mechanical Engineering, Stanford University! 
