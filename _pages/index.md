@@ -69,7 +69,8 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 **News:**
 - Aug 2020: Our review paper, [Membrane-Protein Intractions](https://www.mdpi.com/2218-273X/8/4/120), has
 been selected as a hot paper by editors. It will be posted at Editor's Choice Articles page. 
-- <span style="color:red;"> New.  </span> June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
+- June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
+<!--- <span style="color:red;"> New.  </span> June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!-->
 - <span style="color:red;"> New.  </span> May 2020: [Red Blood Cell](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007890&rev=1) paper accepted in Plos Computational Biology.
 -  Feb 2020: Poster presention in Biophysical Society.
 -  Dec 2019: [Nanotube](https://www.nature.com/articles/s41598-020-59221-x) paper accepted in Nature Scientific Reports!
