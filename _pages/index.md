@@ -67,9 +67,11 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 <br/>
 
 **News:**
-- <span style="color:red;"> New.  </span> Aug 2020: Our review paper, [Membrane-Protein Intractions](https://www.mdpi.com/2218-273X/8/4/120), has
+- <span style="color:red;">  Sep 2020: Honored to be recognized as the class of 2021 Siebel Scholars </span> [Link](https://ucsdnews.ucsd.edu/pressrelease/engineering-graduate-students-honored-as-siebel-scholars)
+
+- Aug 2020: Our review paper, [Membrane-Protein Intractions](https://www.mdpi.com/2218-273X/8/4/120), has
 been selected as a hot paper by editors. It will be posted at Editor's Choice Articles page. 
-- <span style="color:red;"> New.  </span> June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
+- June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
 - May 2020: [Red Blood Cell](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007890&rev=1) paper accepted in Plos Computational Biology.
 <!---- <span style="color:red;"> New.  </span> May 2020: [Red Blood Cell](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007890&rev=1) paper accepted in Plos Computational Biology.-->
 -  Feb 2020: Poster presention in Biophysical Society.
