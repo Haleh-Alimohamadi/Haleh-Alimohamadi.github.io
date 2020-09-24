@@ -24,7 +24,8 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 </p>
 
 <p style='text-align: justify;'> 
-  As a graduate student, I have received prestigious awards including Siebel Scholarship, MAE Distinguished Ph.D. Student Fellowship, Visible Molecular Cell Consortium (VMCC) Fellowship, and MAE Outstanding Graduate Student Award. I was also honored to be recognized as 2019 Rising Stars in Mechanical Engineering by Stanford University. 
+  As a graduate student, I have received prestigious awards including Siebel Scholarship, MAE Distinguished Ph.D. Student Fellowship, Visible Molecular Cell Consortium (VMCC) and the Center 
+  for Trans-scale Structural Biology and Biophysics (CTSBB) Fellowship, and MAE Outstanding Graduate Student Award. I was also honored to be recognized as 2019 Rising Stars in Mechanical Engineering by Stanford University. 
   During my PhD., I have volunteered in multiple programs that aim to increase undergraduate and minority research in engineering. In particular, 
   I have participated in ENLACE and JUMP programs as a mentor. I am also a member of the MAE Graduate Women’s Group and tutoring in Math Open House.
 </p>
