@@ -67,7 +67,7 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 <br/>
 
 **News:**
-- <span style="color:red;">Sep 2020: Honored to be recognized as the class of 2021 Siebel Scholars ($35,000) </span> [Link] (https://ucsdnews.ucsd.edu/pressrelease/engineering-graduate-students-honored-as-siebel-scholars?s=09), the most prestigious annual award for academicexcellence and demonstrated leadership from leading graduate schools in Bioengineering.
+- <span style="color:red;">Sep 2020: Honored to be recognized as the class of 2021 Siebel Scholars ($35,000) </span> [Link](https://www.mdpi.com/2218-273X/8/4/120), the most prestigious annual award for academicexcellence and demonstrated leadership from leading graduate schools in Bioengineering.
 - Aug 2020: Our review paper, [Membrane-Protein Intractions](https://www.mdpi.com/2218-273X/8/4/120), has
 been selected as a hot paper by editors. It will be posted at Editor's Choice Articles page. 
 - June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
