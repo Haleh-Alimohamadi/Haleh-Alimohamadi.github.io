@@ -15,5 +15,5 @@ date: 2020-04-1
 
 collection: publications
 
-permalink: /publications/2020-Diffuso-kinetic
+permalink: /publications/2020-Diffuso
 ---
