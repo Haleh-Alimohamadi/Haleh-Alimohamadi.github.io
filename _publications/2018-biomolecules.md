@@ -5,7 +5,7 @@ authors: '<b>H. Alimohamadi</b> and P. Rangamani'
 
 journal: 'Biomolecules'
 
-citation: '20.5 (Sept. 2018), pp. 18–25.'
+citation: 'This paper has been selected as a hot paper by the editors and has been posted at theEditor’s Choice Articles page.'
 
 
 date: 2018-10-01
