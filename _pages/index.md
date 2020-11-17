@@ -67,7 +67,7 @@ I am a PhD candidate in the Department of Mechanical and Aerospace Engineering (
 
 **News:**
 - <span style="color:red;"> New. </span> Oct 2020: [Diffuso-Kinetic](https://pubs.rsc.org/ko/content/articlehtml/2020/sm/d0sm01028f paper accepted in Soft Matter.-->
-- <span style="color:red;"> New. </span> Sep 2020: Honored to be recognized as the class of 2021 **Siebel Scholars** ($35k) </span> [[Link]](https://ucsdnews.ucsd.edu/pressrelease/engineering-graduate-students-honored-as-siebel-scholars?s=09): the most prestigious annual award for academicexcellence and demonstrated leadership from leading graduate schools in Bioengineering.
+- <span style="color:red;"> New. </span> Sep 2020: Honored to be recognized as the class of 2021 **Siebel Scholars** ($35k) [[Link]](https://ucsdnews.ucsd.edu/pressrelease/engineering-graduate-students-honored-as-siebel-scholars?s=09): the most prestigious annual award for academicexcellence and demonstrated leadership from leading graduate schools in Bioengineering.
 - Aug 2020: Our Membrane-Protein Intractions paper has
 been selected as a hot paper by editors. It has been posted at Editor's Choice Articles page [[Link]](https://www.mdpi.com/journal/biomolecules/editors_choice). 
 - June 2020: Honored to recieve MAE **Distinguished Ph.D. Student Fellowship**!
